@@ -1,4 +1,4 @@
-# Write a PS Module using Plaster
+# Write a PowerShell Module using Plaster
 
 ## Preparation
 
