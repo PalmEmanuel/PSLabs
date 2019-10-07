@@ -1,5 +1,5 @@
-Skriv en try catch finally och prova terminating & non-terminating errors på t.ex. Get-Item för att se hur PowerShell beter sig.
+Write a try/catch/finally block and try both terminating and non-terminating errors using a function such as Get-Item to see if PowerShell behaves
 
-Skriv en loop i try och prova manuellt att använda "throw" efter t.ex. 15 iterationer
+Write a loop in the try block and add a manual "throw" command after a certain number of iterations
 
-Använd en breakpoint och prova hitcount och condition/expression för att pausa scriptet
+Add a breakpoint and run the script to see the debug mode, then try it again with hitcount and expression
