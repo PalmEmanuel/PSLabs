@@ -1,4 +1,4 @@
-Install VS Code
+Install Visual Studio Code
 
 Extensions:
 PowerShell
