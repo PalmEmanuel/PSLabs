@@ -5,7 +5,7 @@ Create unit tests for `Add-OneToValue` and `Add-OneToString`.
 
 ### Add-OneToValue
 - `Add-OneToValue 10` should output `11`.
-- `Add-OneToValue -5` should throw.
+- `Add-OneToValue -5` should output `-4`.
 - `Add-OneToValue $null` should throw.
 
 ### Add-OneToString
