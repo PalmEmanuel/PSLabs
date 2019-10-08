@@ -31,5 +31,5 @@ Example:
 ## Validation
 
 1. Build the module using `Invoke-Build` in the root directory.
-2. Run `Import-Module .\bin\PSAddOne\1.0.0\PSAddOne.psd1`
+2. Run `Import-Module .\bin\PSAddOne`
 3. Run `Get-Command -Module PSAddOne`. Verify that only `Add-OneToString` shows as the result.
