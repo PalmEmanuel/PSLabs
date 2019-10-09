@@ -9,4 +9,4 @@ The endpoint for the testing API is `https://jsonplaceholder.typicode.com`.
 - Get all posts from the `/posts` endpoint. Compare the results from using Invoke-WebRequest and Invoke-RestMethod.
 
 ## Post
-- Create a JSON object in PowerShell with a title, body and userId, and post it to `/posts` with `application\json` as the Content-Type.
+- Create a JSON object in PowerShell with a title, body and userId, and post it to `/posts` with `application/json` as the Content-Type.
